@@ -1,0 +1,10 @@
+[
+  {
+    "isoCode": "en",
+    "localizeFileName": "en",
+    "englishName": "English",
+    "localName": "English",
+    "srcs": ["https://raw.githubusercontent.com/Distributed-Digital-Nomads/ddnave-distr/main/localize/interface/en.json"],
+    "exclude": false
+  }
+]
